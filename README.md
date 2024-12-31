@@ -5,6 +5,8 @@
 ## Description
 Generate a simple README from the command line.
 
+Walkthrough video: https://drive.google.com/file/d/1F-JXmMmKeyZlykBiyDmvCOL_pKPYr-Bh/view
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -25,7 +27,7 @@ See above.
 This project is licensed under the MIT license.
 
 ## Contributing
-Contributions welcome.
+Contributions welcome. Code and advice sourced from ChatGPT.
 
 ## Tests
 See above.
